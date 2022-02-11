@@ -7,7 +7,7 @@ var d;
 //Asignacion de variable
 d = b * c;
 
-console.log (a + " Styven");
-console.log ("Multiplicacion " + b + " x " + c);
-console.log ("Total: " + (b*c));
-console.log (d);
+console.log(a + " Styven");
+console.log("Multiplicacion " + b + " x " + c);
+console.log("Total: " + b * c);
+console.log(d);

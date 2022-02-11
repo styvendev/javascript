@@ -1,5 +1,12 @@
 //Array
-var product = ["Tv", "Equipo de sonido", "Celulares", "Audifonos", "Consola de video juegos", "DVD"];
+var product = [
+  "Tv",
+  "Equipo de sonido",
+  "Celulares",
+  "Audifonos",
+  "Consola de video juegos",
+  "DVD",
+];
 
 console.log(product);
 console.log(product[3]);
@@ -8,14 +15,9 @@ console.log(product[3]);
 var new_product = product.push("Pc");
 var sould_out = product.pop();
 
-//Añadir o eliminar el primer objeto 
+//Añadir o eliminar el primer objeto
 var first_product = product.unshift("MacBook");
 var rm_product = product.shift("MacBook");
 
-//Ver la posicion de un objeto 
+//Ver la posicion de un objeto
 var position = product.indexOf("Celulares");
-position;
-
-
-
-
