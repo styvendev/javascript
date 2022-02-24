@@ -1,8 +1,14 @@
 # Conocimientos de node
 
-Todos los conocimientos de node son aplicados en este proyectos, expecificaciones y demas.
+Todos los fundamentos y conocimientos de [Node.js](https://nodejs.org/es/) son aplicados en este repositorio, usando algunos de sus modulos locales y globales para la creacion de proyectos.
 
-para instalar sigue los siguientes paso
+para instalar alguno de estos proyectos simples
+
+- Automatizacion de procesos usando [gulp](https://gulpjs.com/)
+- npm para usar uno de los paqutes de que contienen Chromium [puppeteer](https://pptr.dev/)
+- Electron para creacion de aplicaciones de escritorio [electron](https://www.electronjs.org/)
+
+Utilizamos el sistema de gestion de paquetes de npm.
 
 ## Project setup
 

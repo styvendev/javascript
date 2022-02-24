@@ -1,2 +1,3 @@
 # Javascript
-Programacion basica en Javascript
+
+Conocimientos basicos de Javascript
