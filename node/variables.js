@@ -1,6 +1,9 @@
 //variables de entorno
-let nombre = process.env.NOMBRE || "Name";
-let email = processenv.EMAIL;
+let names = process.env.NAME || "Name";
+let email = process.env.EMAIL;
 
-console.log("Hello " + nombre);
+console.log("Hello " + names);
 console.log("Enter your email " + email);
+
+global.num = "Variable Global";
+console.log("Forma de crear una", num);
