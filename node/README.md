@@ -5,7 +5,7 @@ Todos los fundamentos y conocimientos de [Node.js](https://nodejs.org/es/) son a
 para instalar alguno de estos proyectos simples
 
 - Automatizacion de procesos usando [gulp](https://gulpjs.com/)
-- npm para usar uno de los paqutes de que contienen Chromium [puppeteer](https://pptr.dev/)
+- npm para usar uno de los paqutes que contienen Chromium [puppeteer](https://pptr.dev/)
 - Electron para creacion de aplicaciones de escritorio [electron](https://www.electronjs.org/)
 
 Utilizamos el sistema de gestion de paquetes de npm.
